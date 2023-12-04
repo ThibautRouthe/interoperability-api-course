@@ -4,8 +4,8 @@ A compilation of 3 school project to learn how to create the server and client o
 ## Installation
 The projects where created as a maven projects with Intellij IDEA Community Edition.
 
-Structure
+## Structure
 The projects are structured using maven.
 
-Author
+## Author
 Thibaut Routhe
